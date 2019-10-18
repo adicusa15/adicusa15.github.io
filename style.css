@@ -89,7 +89,11 @@ h2 {
   clear: both;
   display: table;
 }
-
+.thumbnail {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
 
 footer {
     background-color:#ffcccc;
